@@ -1,0 +1,25 @@
+{
+    "usuarios" : [
+        {
+            "id" : 1,
+            "nombre" : "Luciano",
+            "apellido" : "Lucena",
+            "tipo" : "Admin",
+            "estado" : "Activo"
+        },
+        {
+            "id" : 2,
+            "nombre" : "juan",
+            "apellido" : "gerez",
+            "tipo" : "user",
+            "estado" : "Activo"
+        },
+        {
+            "id" : 3,
+            "nombre" : "pepe",
+            "apellido" : "sosa",
+            "tipo" : "user",
+            "estado" : "inactivo"
+        }
+    ]
+}
